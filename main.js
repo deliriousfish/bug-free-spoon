@@ -1,6 +1,6 @@
 var gameData = {
   dust: 0,
-  dustPerClick: 1
+  dustPerClick: 1,
   dustPerClickCost: 10
 }
 
